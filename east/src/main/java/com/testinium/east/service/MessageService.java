@@ -22,6 +22,6 @@ Feign clienti yalnızca icerideki, localdeki serviceler arasında kullanılabili
 Feign Client'e neden ihtiyac duyarız?
   -Tuketilmek istenen service, consumer-service icersisindeki bir service gibi
   tanımlanır. Bu duurm kullanımı kolaylastirir, kodu daha temiz hale getirir.
-  -Tuketmek istedigimiz servisin hangi endpointlerini kullanacagimizi bu kisimdan kolayca tahip edebiliriz.
+  -Tuketmek istedigimiz servisin hangi endpointlerini kullanacagimizi bu kisimdan kolayca takip edebiliriz.
   -Rest Template sinifina ihtiyacimiz kalmaz. Rest Template göre daha pratik.
  */
